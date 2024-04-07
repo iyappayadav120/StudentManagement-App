@@ -1,7 +1,1 @@
-"# Student--Mangement-App" 
-"# Student-Management-App" 
-"# Student-management-app" 
-"# Studentmanagement-appl" 
-"# Studentmanagement-appl" 
-"# StudentManagement-App" 
-"# StudentManagement-app" 
+The Student Management System offers a comprehensive solution to efficiently manage student records. By leveraging the power of Java Spring Boot for the backend and React for the frontend, it provides a modern and user-friendly interface while ensuring robustness, scalability, and data integrity.
